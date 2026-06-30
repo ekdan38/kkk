@@ -6,5 +6,9 @@ public class KingService {
 
     private String qqqq;
 
+    public void kkkkk () {
+        String fuckyou = "ㅗㅗㅗ";
+    }
+
     
 }
