@@ -7,7 +7,7 @@ public class KingService {
     private String qqqq;
 
     public void kkkkk () {
-        String fuckyou = "ㅗㅗㅗ";
+        String fuckyou = "병신";
     }
 
     
